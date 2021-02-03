@@ -18,6 +18,7 @@ public class Main {
 		System.out.println("Multiplication= " +mul);
 		System.out.println("Division= " +div);
 		System.out.println("Division= " +div);
+		System.out.println("Division= " +div);
 	}
 
 }
